@@ -1,0 +1,476 @@
+{
+  "2387": [
+    {
+      "brandName": "Nhà Tôi",
+      "category": {
+        "id": 2387,
+        "name": "Nước rửa chén",
+        "parentIds": [
+          7160
+        ]
+      },
+      "endOfEventDate": "0001-01-01T00:00:00",
+      "icon": "https://github.com/z8888-sharkfin/nhatoi-images/blob/d78052b80dc206b271ea8b54fd3a3a5d72704c07/nhatoi-products/nuoc-rua-chen-green-1.2L-1-Photoroom.png-Photoroom.png?raw=true",
+      "id": 88000004,
+      "isCoolPreserve": false,
+      "isFresh": false,
+      "name": "Nước rửa chén Green 1.2L",
+      "productCode": "1012888000004",
+      "productPrices": [
+        {
+          "basePrice": 27700,
+          "discountPercent": 8,
+          "isCanBuy": true,
+          "priceOnBill": 25400,
+          "quantityCondition": 0,
+          "storeId": 11612,
+          "textStatus": "Mua",
+          "type": 1
+        }
+      ],
+      "promotionGiftImgs": "",
+      "promotionText": "",
+      "rateStar": 4.8,
+      "totalReview": 0,
+      "unit": "chai",
+      "url": "",
+      "weightUnit": null
+    },
+    {
+      "brandName": "Nhà Tôi",
+      "category": {
+        "id": 2387,
+        "name": "Nước rửa chén",
+        "parentIds": [
+          7160
+        ]
+      },
+      "endOfEventDate": "0001-01-01T00:00:00",
+      "icon": "https://github.com/z8888-sharkfin/nhatoi-images/blob/d78052b80dc206b271ea8b54fd3a3a5d72704c07/nhatoi-products/nuoc-rua-chen-max-0.8L-1-Photoroom.png-Photoroom.png?raw=true",
+      "id": 88000005,
+      "isCoolPreserve": false,
+      "isFresh": false,
+      "name": "Nước rửa chén Max 0.8L",
+      "productCode": "1012888000005",
+      "productPrices": [
+        {
+          "basePrice": 23800,
+          "discountPercent": 13,
+          "isCanBuy": true,
+          "priceOnBill": 20600,
+          "quantityCondition": 0,
+          "storeId": 11612,
+          "textStatus": "Mua",
+          "type": 1
+        }
+      ],
+      "promotionGiftImgs": "",
+      "promotionText": "",
+      "rateStar": 4.8,
+      "totalReview": 0,
+      "unit": "chai",
+      "url": "",
+      "weightUnit": null
+    },
+    {
+      "brandName": "Nhà Tôi",
+      "category": {
+        "id": 2387,
+        "name": "Nước rửa chén",
+        "parentIds": [
+          7160
+        ]
+      },
+      "endOfEventDate": "0001-01-01T00:00:00",
+      "icon": "https://github.com/z8888-sharkfin/nhatoi-images/blob/d78052b80dc206b271ea8b54fd3a3a5d72704c07/nhatoi-products/nuoc-rua-chen-cao-cap-bode-1-Photoroom.png-Photoroom.png?raw=true",
+      "id": 88000007,
+      "isCoolPreserve": false,
+      "isFresh": false,
+      "name": "Nước rửa chén Bồ Đề Cao Cấp 1.2L",
+      "productCode": "1012888000007",
+      "productPrices": [
+        {
+          "basePrice": 20900,
+          "discountPercent": 10,
+          "isCanBuy": true,
+          "priceOnBill": 18800,
+          "quantityCondition": 0,
+          "storeId": 11612,
+          "textStatus": "Mua",
+          "type": 1
+        }
+      ],
+      "promotionGiftImgs": "",
+      "promotionText": "",
+      "rateStar": 4.8,
+      "totalReview": 0,
+      "unit": "chai",
+      "url": "",
+      "weightUnit": null
+    },
+    {
+      "brandName": "Nhà Tôi",
+      "category": {
+        "id": 2387,
+        "name": "Nước rửa chén",
+        "parentIds": [
+          7160
+        ]
+      },
+      "endOfEventDate": "0001-01-01T00:00:00",
+      "icon": "https://github.com/z8888-sharkfin/nhatoi-images/blob/d78052b80dc206b271ea8b54fd3a3a5d72704c07/nhatoi-products/nuoc-rua-chen-green-1.2L-2-Photoroom.png-Photoroom.png?raw=true",
+      "id": 88000008,
+      "isCoolPreserve": false,
+      "isFresh": false,
+      "name": "Nước rửa chén Green 1.2L",
+      "productCode": "1012888000008",
+      "productPrices": [
+        {
+          "basePrice": 22900,
+          "discountPercent": 13,
+          "isCanBuy": true,
+          "priceOnBill": 19800,
+          "quantityCondition": 0,
+          "storeId": 11612,
+          "textStatus": "Mua",
+          "type": 1
+        }
+      ],
+      "promotionGiftImgs": "",
+      "promotionText": "",
+      "rateStar": 4.8,
+      "totalReview": 0,
+      "unit": "chai",
+      "url": "",
+      "weightUnit": null
+    },
+    {
+      "brandName": "Nhà Tôi",
+      "category": {
+        "id": 2387,
+        "name": "Nước rửa chén",
+        "parentIds": [
+          7160
+        ]
+      },
+      "endOfEventDate": "0001-01-01T00:00:00",
+      "icon": "https://github.com/z8888-sharkfin/nhatoi-images/blob/d78052b80dc206b271ea8b54fd3a3a5d72704c07/nhatoi-products/nuoc-rua-chen-bat-bode-cong-ghe-sinh-hoc-1-Photoroom.png-Photoroom.png?raw=true",
+      "id": 88000010,
+      "isCoolPreserve": false,
+      "isFresh": false,
+      "name": "Nước rửa chén công nghệ sinh học",
+      "productCode": "1012888000010",
+      "productPrices": [
+        {
+          "basePrice": 20900,
+          "discountPercent": 7,
+          "isCanBuy": true,
+          "priceOnBill": 19400,
+          "quantityCondition": 0,
+          "storeId": 11612,
+          "textStatus": "Mua",
+          "type": 1
+        }
+      ],
+      "promotionGiftImgs": "",
+      "promotionText": "",
+      "rateStar": 4.8,
+      "totalReview": 0,
+      "unit": "chai",
+      "url": "",
+      "weightUnit": null
+    },
+    {
+      "brandName": "Nhà Tôi",
+      "category": {
+        "id": 2387,
+        "name": "Nước rửa chén",
+        "parentIds": [
+          7160
+        ]
+      },
+      "endOfEventDate": "0001-01-01T00:00:00",
+      "icon": "https://github.com/z8888-sharkfin/nhatoi-images/blob/d78052b80dc206b271ea8b54fd3a3a5d72704c07/nhatoi-products/nuoc-rua-chen-green-0.8L-1-Photoroom.png-Photoroom.png?raw=true",
+      "id": 88000012,
+      "isCoolPreserve": false,
+      "isFresh": false,
+      "name": "Nước rửa chén Green 0.8L",
+      "productCode": "1012888000012",
+      "productPrices": [
+        {
+          "basePrice": 21950,
+          "discountPercent": 16,
+          "isCanBuy": true,
+          "priceOnBill": 18400,
+          "quantityCondition": 0,
+          "storeId": 11612,
+          "textStatus": "Mua",
+          "type": 1
+        }
+      ],
+      "promotionGiftImgs": "",
+      "promotionText": "",
+      "rateStar": 4.8,
+      "totalReview": 0,
+      "unit": "chai",
+      "url": "",
+      "weightUnit": null
+    },
+    {
+      "brandName": "Nhà Tôi",
+      "category": {
+        "id": 2387,
+        "name": "Nước rửa chén",
+        "parentIds": [
+          7160
+        ]
+      },
+      "endOfEventDate": "0001-01-01T00:00:00",
+      "icon": "https://github.com/z8888-sharkfin/nhatoi-images/blob/d78052b80dc206b271ea8b54fd3a3a5d72704c07/nhatoi-products/nuoc-rua-chen-max-1.2L-1-Photoroom.png-Photoroom.png?raw=true",
+      "id": 88000013,
+      "isCoolPreserve": false,
+      "isFresh": false,
+      "name": "Nước rửa chén Max 1.2L",
+      "productCode": "1012888000013",
+      "productPrices": [
+        {
+          "basePrice": 24890,
+          "discountPercent": 14,
+          "isCanBuy": true,
+          "priceOnBill": 21400,
+          "quantityCondition": 0,
+          "storeId": 11612,
+          "textStatus": "Mua",
+          "type": 1
+        }
+      ],
+      "promotionGiftImgs": "",
+      "promotionText": "",
+      "rateStar": 4.8,
+      "totalReview": 0,
+      "unit": "chai",
+      "url": "",
+      "weightUnit": null
+    }
+  ],
+  "2464": [
+    {
+      "brandName": "Nhà Tôi",
+      "category": {
+        "id": 2464,
+        "name": "Nước giặt",
+        "parentIds": [
+          7160
+        ]
+      },
+      "endOfEventDate": "0001-01-01T00:00:00",
+      "icon": "https://github.com/z8888-sharkfin/nhatoi-images/blob/d78052b80dc206b271ea8b54fd3a3a5d72704c07/nhatoi-products/nuoc-giat-dam-dac-max-3.8L-1-Photoroom.png-Photoroom.png?raw=true",
+      "id": 88000002,
+      "isCoolPreserve": false,
+      "isFresh": false,
+      "name": "Nước giặt Max đậm đặc 3.8L",
+      "productCode": "1012888000002",
+      "productPrices": [
+        {
+          "basePrice": 33900,
+          "discountPercent": 13,
+          "isCanBuy": true,
+          "priceOnBill": 29400,
+          "quantityCondition": 0,
+          "storeId": 11612,
+          "textStatus": "Mua",
+          "type": 1
+        }
+      ],
+      "promotionGiftImgs": "",
+      "promotionText": "",
+      "rateStar": 4.8,
+      "totalReview": 0,
+      "unit": "chai",
+      "url": "",
+      "weightUnit": null
+    },
+    {
+      "brandName": "Nhà Tôi",
+      "category": {
+        "id": 2464,
+        "name": "Nước giặt",
+        "parentIds": [
+          7160
+        ]
+      },
+      "endOfEventDate": "0001-01-01T00:00:00",
+      "icon": "https://github.com/z8888-sharkfin/nhatoi-images/blob/d78052b80dc206b271ea8b54fd3a3a5d72704c07/nhatoi-products/nuoc-giat-xa-bode-sieu-dam-dac-1-Photoroom.png-Photoroom.png?raw=true",
+      "id": 88000003,
+      "isCoolPreserve": false,
+      "isFresh": false,
+      "name": "Nước giặt xả Bồ Đề siêu đậm đặc 3.8L",
+      "productCode": "1012888000003",
+      "productPrices": [
+        {
+          "basePrice": 44490,
+          "discountPercent": 4,
+          "isCanBuy": true,
+          "priceOnBill": 42400,
+          "quantityCondition": 0,
+          "storeId": 11612,
+          "textStatus": "Mua",
+          "type": 1
+        }
+      ],
+      "promotionGiftImgs": "",
+      "promotionText": "",
+      "rateStar": 4.8,
+      "totalReview": 0,
+      "unit": "chai",
+      "url": "",
+      "weightUnit": null
+    },
+    {
+      "brandName": "Nhà Tôi",
+      "category": {
+        "id": 2464,
+        "name": "Nước giặt",
+        "parentIds": [
+          7160
+        ]
+      },
+      "endOfEventDate": "0001-01-01T00:00:00",
+      "icon": "https://github.com/z8888-sharkfin/nhatoi-images/blob/d78052b80dc206b271ea8b54fd3a3a5d72704c07/nhatoi-products/nuoc-giat-care-3.8L-1-Photoroom.png-Photoroom.png?raw=true",
+      "id": 88000006,
+      "isCoolPreserve": false,
+      "isFresh": false,
+      "name": "Nước giặt Care 3.8L",
+      "productCode": "1012888000006",
+      "productPrices": [
+        {
+          "basePrice": 43900,
+          "discountPercent": 7,
+          "isCanBuy": true,
+          "priceOnBill": 40400,
+          "quantityCondition": 0,
+          "storeId": 11612,
+          "textStatus": "Mua",
+          "type": 1
+        }
+      ],
+      "promotionGiftImgs": "",
+      "promotionText": "",
+      "rateStar": 4.8,
+      "totalReview": 0,
+      "unit": "chai",
+      "url": "",
+      "weightUnit": null
+    },
+    {
+      "brandName": "Nhà Tôi",
+      "category": {
+        "id": 2464,
+        "name": "Nước giặt",
+        "parentIds": [
+          7160
+        ]
+      },
+      "endOfEventDate": "0001-01-01T00:00:00",
+      "icon": "https://github.com/z8888-sharkfin/nhatoi-images/blob/d78052b80dc206b271ea8b54fd3a3a5d72704c07/nhatoi-products/nuoc-giat-xa-green-3.8L-1-Photoroom.png-Photoroom.png?raw=true",
+      "id": 88000011,
+      "isCoolPreserve": false,
+      "isFresh": false,
+      "name": "Nước giặt xả Green 3.8L",
+      "productCode": "1012888000011",
+      "productPrices": [
+        {
+          "basePrice": 60900,
+          "discountPercent": 17,
+          "isCanBuy": true,
+          "priceOnBill": 50400,
+          "quantityCondition": 0,
+          "storeId": 11612,
+          "textStatus": "Mua",
+          "type": 1
+        }
+      ],
+      "promotionGiftImgs": "",
+      "promotionText": "",
+      "rateStar": 4.8,
+      "totalReview": 0,
+      "unit": "chai",
+      "url": "",
+      "weightUnit": null
+    }
+  ],
+  "2510": [
+    {
+      "brandName": "Nhà Tôi",
+      "category": {
+        "id": 2510,
+        "name": "Nước lau sàn",
+        "parentIds": [
+          7160
+        ]
+      },
+      "endOfEventDate": "0001-01-01T00:00:00",
+      "icon": "https://github.com/z8888-sharkfin/nhatoi-images/blob/d78052b80dc206b271ea8b54fd3a3a5d72704c07/nhatoi-products/nuoc-lau-san-green-1-Photoroom.png-Photoroom.png?raw=true",
+      "id": 88000001,
+      "isCoolPreserve": false,
+      "isFresh": false,
+      "name": "Nước lau sàn Green 3.6L",
+      "productCode": "1012888000001",
+      "productPrices": [
+        {
+          "basePrice": 54900,
+          "discountPercent": 10,
+          "isCanBuy": true,
+          "priceOnBill": 49400,
+          "quantityCondition": 0,
+          "storeId": 11612,
+          "textStatus": "Mua",
+          "type": 1
+        }
+      ],
+      "promotionGiftImgs": "",
+      "promotionText": "",
+      "rateStar": 4.8,
+      "totalReview": 0,
+      "unit": "chai",
+      "url": "",
+      "weightUnit": null
+    },
+    {
+      "brandName": "Nhà Tôi",
+      "category": {
+        "id": 2510,
+        "name": "Nước lau sàn",
+        "parentIds": [
+          7160
+        ]
+      },
+      "endOfEventDate": "0001-01-01T00:00:00",
+      "icon": "https://github.com/z8888-sharkfin/nhatoi-images/blob/d78052b80dc206b271ea8b54fd3a3a5d72704c07/nhatoi-products/nuoc-lau-san-bode-1-Photoroom.png-Photoroom.png?raw=true",
+      "id": 88000009,
+      "isCoolPreserve": false,
+      "isFresh": false,
+      "name": "Nước lau sàn Bồ Đề",
+      "productCode": "1012888000009",
+      "productPrices": [
+        {
+          "basePrice": 35500,
+          "discountPercent": 3,
+          "isCanBuy": true,
+          "priceOnBill": 34400,
+          "quantityCondition": 0,
+          "storeId": 11612,
+          "textStatus": "Mua",
+          "type": 1
+        }
+      ],
+      "promotionGiftImgs": "",
+      "promotionText": "",
+      "rateStar": 4.8,
+      "totalReview": 0,
+      "unit": "chai",
+      "url": "",
+      "weightUnit": null
+    }
+  ]
+}
