@@ -1,0 +1,14 @@
+{
+  "ip": "34.101.217.135",
+  "serverName": "34.101.217.135",
+  "baseUrl": "https://34.101.217.135",
+  "systemStatus": "up",
+  "systemStatusMessage": "Hệ thống đang được bảo trì",
+  "update": {
+    "version": "2.0.1",
+    "timestamp": 1708485431000,
+    "forceUpdate": false,
+    "link": "https://play.google.com/store/apps/details?id=sharkfin.io.vn.sharkfin",
+    "details": []
+  }
+}
