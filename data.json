@@ -10,5 +10,8 @@
     "forceUpdate": false,
     "link": "https://play.google.com/store/apps/details?id=sharkfin.io.vn.sharkfin",
     "details": []
+  },
+  "disableProductCat": {
+    "Sản phẩm Nhà Tôi": true
   }
 }
