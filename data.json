@@ -6,6 +6,7 @@
   "systemStatusMessage": "Hệ thống đang được bảo trì",
   "update": {
     "version": "2.0.1",
+    "versionToForceUpdate": "1.0.2",
     "timestamp": 1708485431000,
     "forceUpdate": false,
     "link": "https://play.google.com/store/apps/details?id=sharkfin.io.vn.sharkfin",
